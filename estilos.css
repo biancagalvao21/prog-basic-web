@@ -1,0 +1,30 @@
+body{
+    font: 12px Arial;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+}
+form{
+    font-family: "Times New Roman";
+    margin: 0 auto;
+    width: 350px;
+    padding: 1em;
+    border: 1px solid #000;
+    background-color: palevioletred;
+
+}
+
+ul{
+    list-style: none;
+}
+
+label{
+display:inline-block;
+width: 150px;
+text-align: right;
+
+}
+input {
+width: 100px;
+}
